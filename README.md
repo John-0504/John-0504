@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cosmic-banner.svg" alt="Cosmic developer banner" width="100%" />
+  <img src="/cosmic-banner.svg" alt="Cosmic developer banner" width="100%" />
 
   # 안녕하세요, Jun Young입니다 👋
 
